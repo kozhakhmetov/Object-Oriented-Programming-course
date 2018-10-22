@@ -10,23 +10,23 @@ public class Student {
         year_of_study = 1;
     }
 
-    String getName() {
+    public String getName() {
         return name;
     }
 
-    void setName(String newname) {
+    public void setName(String newname) {
         name = newname;
     }
 
-    void incrementYearOfStudy() {
+    public void incrementYearOfStudy() {
         year_of_study++;
     }
 
-    int getId() {
+    public int getId() {
         return id;
     }
 
-    void setId(int newid) {
+    public void setId(int newid) {
         id = newid;
     }
 }

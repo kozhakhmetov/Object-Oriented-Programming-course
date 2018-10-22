@@ -7,7 +7,7 @@ public class Data {
         sum = 0;
     }
 
-    void add(double val) {
+    public void add(double val) {
         if (size == 0) {
             max = val;
         }else {
@@ -17,12 +17,12 @@ public class Data {
         size++;
     }
 
-    double getAverage() {
+    public double getAverage() {
         if (size == 0) return 0;
         return sum / size;
     }
 
-    double getMax() {
+    public double getMax() {
         return max;
     }
 }

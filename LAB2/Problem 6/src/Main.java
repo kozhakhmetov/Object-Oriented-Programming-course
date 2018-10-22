@@ -8,26 +8,19 @@ public class Main {
             "nineteen"};
 
     public static void main(String[] args) {
-        for(int i = 1000; i <= 90000; i += 533) {
-            System.out.println(i + " " + inWords(i));
-        }
+        System.out.println(inWords(4568));
+
     }
 
     public static String inWords(int number) {
         String ans = "";
         int thousand = number / 1000;
         number %= 1000;
-        if (thousand > 0) {
-            ans += lessThanHundred(thousand) + " " + "thousand" + " ";
-        }
+        if (thousand > 0) ans += lessThanHundred(thousand) + " " + "thousand" + " ";
         int hundred = number / 100;
         number %= 100;
-        if (hundred > 0) {
-            ans += lessThanHundred(hundred) + " " + "hundred" + " ";
-        }
-        if (number > 0) {
-            ans += lessThanHundred(number);
-        }
+        if (hundred > 0) ans += lessThanHundred(hundred) + " " + "hundred" + " ";
+        if (number > 0) ans += lessThanHundred(number);
         return ans;
     }
 
