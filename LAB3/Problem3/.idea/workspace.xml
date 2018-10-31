@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67ebbed6-4a29-4e66-85f0-375342a37ca8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../LAB2/Problem 5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB2/Problem 5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB2/Problem 6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB2/Problem 6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB2/Problem 6/out/production/Problem 6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB2/Problem 6/out/production/Problem 6/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB2/Problem 6/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB2/Problem 6/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB2/Problem1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB2/Problem1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB2/Problem1/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB2/Problem1/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB2/Problem2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB2/Problem2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB2/Problem2/out/production/Problem2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB2/Problem2/out/production/Problem2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB2/Problem2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB2/Problem2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB2/Problem3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB2/Problem3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB2/Problem3/out/production/Problem3/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB2/Problem3/out/production/Problem3/Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB2/Problem3/src/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB2/Problem3/src/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB2/Problem4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB2/Problem4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem1/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem1/src/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem2/src/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem2/src/Sphere.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LAB4/Problem1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB4/Problem1/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,10 +15,10 @@
     <session id="-125653320">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -60,7 +45,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -69,10 +54,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
+            <state relative-caret-position="401">
               <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
               <folding>
                 <element signature="e#353#354#0" expanded="true" />
@@ -128,10 +113,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="810" />
+    <option name="height" value="807" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -139,7 +124,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -158,6 +142,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,17 +192,18 @@
       <updated>1539342517435</updated>
       <workItem from="1539342519130" duration="2977000" />
       <workItem from="1539431226448" duration="8000" />
+      <workItem from="1540874523431" duration="101000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2985000" />
+    <option name="totallyTimeSpent" value="3086000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="810" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="807" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -233,7 +219,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32729805" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3272727" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3286908" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -265,21 +251,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding>
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="90">
+          <caret line="6" column="84" selection-start-line="6" selection-start-column="84" selection-end-line="6" selection-end-column="84" />
         </state>
       </provider>
     </entry>
@@ -290,10 +265,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="84" selection-start-line="6" selection-start-column="84" selection-end-line="6" selection-end-column="84" />
+        <state relative-caret-position="105">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding>
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

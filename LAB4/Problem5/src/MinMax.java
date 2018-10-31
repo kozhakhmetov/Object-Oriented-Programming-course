@@ -5,6 +5,14 @@ public class MinMax {
             this.min = min;
             this.max = max;
         }
+
+        public int getMax() {
+            return max;
+        }
+
+        public int getMin() {
+            return min;
+        }
     }
 
     static Pair minmax(int values[]) {
